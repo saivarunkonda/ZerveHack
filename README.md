@@ -54,7 +54,3 @@ From each project folder:
 npm install
 npm run dev
 ```
-
-## Best next move
-
-Use one project as the main submission and keep the other as a backup or expansion path. If you want the best odds of winning, start with Signal vs Hype and borrow the strongest finance/economics panels from Macro Regime Lab.
